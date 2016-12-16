@@ -6,6 +6,11 @@ struct Car {
 	int Number;
 };
 
+bool f_valid_n(int n){
+	return true;
+}
+
+
 int main(int argc, char** argv) {
 	return 0;
 }
