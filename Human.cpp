@@ -6,8 +6,12 @@ struct Human {
 	int age;
 };
 
+bool f_valid_age(int a){
+	return true;
+}
 
 
 int main(int argc, char** argv) {
+	cout<<"new_commit";
 	return 0;
 }
