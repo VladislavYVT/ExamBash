@@ -1,0 +1,17 @@
+git clone https://github.com/VladislavYVT/ExamBash.git
+cd ExamBash
+git add .
+git commit -m "human"
+git push
+git branch new_feature
+git checkout new_feature
+git add car.cpp
+git commit -m "car"
+git push origin new_feature
+git add car.cpp
+git commit -m "f_valid_n"
+git push origin new_feature
+git checkout master
+git add Human.cpp
+git commit -m "f_valid_age"
+git pushs
