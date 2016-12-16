@@ -14,4 +14,4 @@ git push origin new_feature
 git checkout master
 git add Human.cpp
 git commit -m "f_valid_age"
-git pushs
+git push
